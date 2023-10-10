@@ -43,9 +43,9 @@ To create the solid model from given drawing and section the solid model
 ## OUTPUT:
 
 
+![4 1 naveen_page-0001](https://github.com/naveenraja2004/EX-No.4.1.-CUT-SECTION-OF-SOLIDS/assets/118707204/16976c9e-03d6-40c1-b918-2629855e0710)
 
 
-[4.1 naveen.pdf](https://github.com/naveenraja2004/EX-No.4.1.-CUT-SECTION-OF-SOLIDS/files/12829823/4.1.naveen.pdf)
 
 ## RESULT:
 
